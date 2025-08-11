@@ -2,7 +2,7 @@
 
 Changes RimWorld's Pen Marker to look more like a sign, instead of like a certain religious symbol.
 
-![Jerek's Pen Marker](/Textures/Things/Building/Furniture/PenMarker.png) or ![Jerek's Pen Marker Alt](/Textures/Things/Building/Furniture/PenMarkerAlt.png)
+<img src="/Textures/Things/Building/Furniture/PenMarker.png" alt="Jerek's Pen Marker" width="90" height="90"> or <img src="/Textures/Things/Building/Furniture/PenMarkerAlt.png" alt="Jerek's Pen Marker Alt" width="90" height="90">
 
 ## License
 
