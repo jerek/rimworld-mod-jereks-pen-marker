@@ -4,7 +4,7 @@ Changes RimWorld's Pen Marker to look more like a sign, instead of like a certai
 
 <img src="/About/Preview.png" alt="Jerek's Pen Marker preview image" width="100%">
 
-<img src="/Textures/Things/Building/Furniture/PenMarker.png" alt="Jerek's Pen Marker" width="90" height="90"> or <img src="/Textures/Things/Building/Furniture/PenMarkerAlt.png" alt="Jerek's Pen Marker Alt" width="90" height="90">
+<img src="/Textures/Things/Building/Furniture/PenMarker.png" alt="Jerek's Pen Marker" width="90" height="90"> or <img src="/Textures/Things/Building/Furniture/PenMarkerAlt.png" alt="Jerek's Pen Marker Alt" width="90" height="90"> or <img src="/Textures/Things/Building/Furniture/PenMarkerClassicHD.png" alt="Jerek's Pen Marker Classic HD" width="90" height="90">
 
 ## License
 
